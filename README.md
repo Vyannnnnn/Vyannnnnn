@@ -8,4 +8,4 @@
 ##### My Social Media
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/al-vyannn/) [![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](andrealfiannnnn@gmail.com)
 
-[![Andrew GitHub stats](https://github-readme-stats.vercel.app/api?username=Vyannnnnn)](https://github.com/Vyannnnnn/github-readme-stats)
+[![Andrew GitHub stats](https://github-stats-extended.vercel.app/api?username=Vyannnnnn&rank_icon=percentile&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
