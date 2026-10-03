@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
-# Hi, I'm Ahmad Andre 👋
-Fullstack Developer from Indonesia 🇮🇩
+# Hi, I'm Ahmad Andre Alfiansyah 👋
+Full Stack Developer from Indonesia 🇮🇩
 I build web applications using React.js, Express.js, Laravel, and PostgreSQL.
 
 ## My Skills
